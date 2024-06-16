@@ -1,0 +1,16 @@
+1.Data Collection:
+	Here for this project we are using images as dataset
+	the images like Fake and real images of humans
+2.Data preprocessing
+	It is a process of reshaping all the images into same size of images
+3.Splitting of dataset
+	Train
+	Test
+4.Model implementation
+	Deep Learning model
+		MobileNet Algorithm
+5.Training the model and saving the trained model into a model file as h5/m5 file
+6.Predicting test accuracy
+7.Predicting classification report and confusion matrix
+8.Final prediction:
+	Testing with single images and predicting the accuract with Fake or Real Images
